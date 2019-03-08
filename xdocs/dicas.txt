@@ -1,0 +1,16 @@
+-- Iniciando com AdonisJS, um framework completo para NodeJS | Diego Fernandes
+D:\rocketseat\ npm install --global @adonis
+adonis --help -- saber os comandos do adonisjs
+D:\rocketseat adonis new adonisjs --api-only -- vai criar uma pasta com o nome adonisjs
+D:\rocketseat\adonisjs adonis serve --dev -- comando serve para inicializar o server
+D:\rocketseat\adonisjs npm install pg -- postgres
+D:\rocketseat\adonisjs adonis make:controller Auth -- Criando um controller com o nome Auth
+-------------------------------------------------------------------------------------------
+-- CRUD e relacionamentos no AdonisJS | Diego Fernandes
+D:\rocketseat\adonisjs adonis make:model Tweet -m -c -- Criar uma model com -m(migration) e -c(Controller)
+D:\rocketseat\adonisjs adonis migration:run -- executar depois que alterar os migration. exe: add/alter novos campos ou tipos
+D:\rocketseat\adonisjs adonis route:list -- listar as rotinas do adonijs
+
+
+
+
